@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the thesis below."
+title: "Emerging ostrich farmers and supply chain participation: public thesis materials"
+authors:
+  - family-names: Pittaway
+    given-names: Timothy
+    orcid: "https://orcid.org/0000-0002-9792-0932"
+license: CC-BY-4.0
+repository-code: "https://github.com/timothypittaway/emerging-ostrich-farmers"
+preferred-citation:
+  type: thesis
+  title: "Exploring Interventions for Participation of Emerging Farmers in the Eastern Cape Ostrich-Industry Supply Chain"
+  authors:
+    - family-names: Pittaway
+      given-names: Timothy
+      orcid: "https://orcid.org/0000-0002-9792-0932"
+  thesis-type: "Doctor Technologiae"
+  institution:
+    name: "Nelson Mandela Metropolitan University"
+    city: "Port Elizabeth"
+    country: ZA
+  year: 2013
