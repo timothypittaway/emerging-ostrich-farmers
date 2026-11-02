@@ -6,6 +6,8 @@ authors:
     given-names: Timothy
     orcid: "https://orcid.org/0000-0002-9792-0932"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23881131"
+version: "1.0"
 repository-code: "https://github.com/timothypittaway/emerging-ostrich-farmers"
 preferred-citation:
   type: thesis

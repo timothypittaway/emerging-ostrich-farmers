@@ -1,8 +1,14 @@
 # Emerging ostrich farmers and supply chain participation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23881131.svg)](https://doi.org/10.5281/zenodo.23881131)
+
 Public materials from my doctoral thesis on how emerging (smallholder) farmers in the Eastern Cape, South Africa, can take part in the ostrich industry's export supply chain.
 
 > Pittaway, T. (2013). *Exploring Interventions for Participation of Emerging Farmers in the Eastern Cape Ostrich-Industry Supply Chain*. Doctor Technologiae thesis, Nelson Mandela Metropolitan University, Port Elizabeth, South Africa. Promoter: Prof P. van Niekerk. Co-promoter: Dr J. Vansteenkiste.
+
+## Cite these materials
+
+Pittaway, T. (2026). *Participation capacity instrument for emerging farmer programmes: public materials from a doctoral thesis on the Eastern Cape ostrich supply chain* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23881131
 
 ## Why this study
 
