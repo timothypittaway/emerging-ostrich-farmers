@@ -6,6 +6,8 @@ Public materials from my doctoral thesis on how emerging (smallholder) farmers i
 
 > Pittaway, T. (2013). *Exploring Interventions for Participation of Emerging Farmers in the Eastern Cape Ostrich-Industry Supply Chain*. Doctor Technologiae thesis, Nelson Mandela Metropolitan University, Port Elizabeth, South Africa. Promoter: Prof P. van Niekerk. Co-promoter: Dr J. Vansteenkiste.
 
+Full thesis: [hdl.handle.net/10948/11871](https://hdl.handle.net/10948/11871) (Nelson Mandela University repository)
+
 ## Cite these materials
 
 Pittaway, T. (2026). *Participation capacity instrument for emerging farmer programmes: public materials from a doctoral thesis on the Eastern Cape ostrich supply chain* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23881131
@@ -63,7 +65,7 @@ The doctoral research was supported by Nelson Mandela Metropolitan University an
 
 ## Licence
 
-The text and templates in this repository are shared under CC BY 4.0. The thesis itself remains subject to the university's terms.
+The text and templates in this repository are shared under CC BY 4.0. The full thesis is available from the Nelson Mandela University repository and remains subject to the university's terms.
 
 ## Contact
 
